@@ -1,0 +1,264 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Mar 2024 11:29:12 at https://relais-accueil.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u0%h%B%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://relais-accueil.fr/ -O1 "C:\My Web Sites\relais-accueil.fr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:29:34	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.1.6.1 (from https://relais-accueil.fr/)
+11:29:52	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.0 (from https://relais-accueil.fr/)
+11:30:00	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/elementor/css/post-6.css?ver=1710229185 (from https://relais-accueil.fr/)
+11:31:07	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.1.21 (from https://relais-accueil.fr/)
+11:31:16	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/elementor/css/post-344.css?ver=1710229185 (from https://relais-accueil.fr/)
+11:31:47	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3 (from https://relais-accueil.fr/)
+11:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor-pro/assets/js/page-transitions.min.js?ver=3.20.0 (from https://relais-accueil.fr/)
+11:31:51	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://relais-accueil.fr/wp-json/ (from https://relais-accueil.fr/)
+11:31:52	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2F (from https://relais-accueil.fr/)
+11:31:53	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/favicon-150x150.png (from https://relais-accueil.fr/)
+11:32:17	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/l-association/ (from https://relais-accueil.fr/)
+11:33:03	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/l-association (from https://relais-accueil.fr/)
+11:33:09	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/06/Design-sans-titre-1024x819.png (from https://relais-accueil.fr/)
+11:33:24	Error: 	Unable to save file C:/My Web Sites/relais-accueil.fr/relais-accueil.fr/la-residence: Permission denied
+11:33:34	Error: 	Unable to save file C:/My Web Sites/relais-accueil.fr/relais-accueil.fr/fjt-paris-relais-18: Permission denied
+11:33:41	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/coworking (from https://relais-accueil.fr/)
+11:34:12	Error: 	Unable to save file C:/My Web Sites/relais-accueil.fr/relais-accueil.fr/jeunes-majeurs: Permission denied
+11:34:51	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/la-fondation-monoprix-decerne-le-prix-du-jury-dun-montant-de-10-000e-a-relais-accueil/ (from https://relais-accueil.fr/)
+11:34:53	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css (from https://relais-accueil.fr/)
+11:35:34	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/2nd-article-du-site-internet-de-relais-accueil/ (from https://relais-accueil.fr/)
+11:36:07	Warning: 	Incorrect length (69210!=356192 expected) for https://relais-accueil.fr/wp-content/uploads/2023/04/poissonniers-hero-scaled.jpg
+11:36:29	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/elementor/css/post-2211.css?ver=1710229185 (from https://relais-accueil.fr/)
+11:36:29	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/jet-elements/assets/js/lib/anime-js/anime.min.js?ver=2.2.0 (from https://relais-accueil.fr/)
+11:36:30	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1 (from https://relais-accueil.fr/)
+11:36:33	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-includes/js/imagesloaded.min.js?ver=5.0.0 (from https://relais-accueil.fr/)
+11:36:33	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.0 (from https://relais-accueil.fr/)
+11:36:33	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1 (from https://relais-accueil.fr/)
+11:36:36	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 (from https://relais-accueil.fr/)
+11:36:36	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/jet-popup/includes/elementor/assets/js/jet-popup-elementor-frontend.js?ver=2.0.0 (from https://relais-accueil.fr/)
+11:37:03	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.0 (from https://relais-accueil.fr/)
+11:37:25	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/jet-elements/assets/images/dummy-map.png (from https://relais-accueil.fr/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.6.10)
+11:37:25	Warning: 	File not parsed, looks like binary: https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.29.0
+11:37:26	Warning: 	Incorrect length (17082!=233441 expected) for https://relais-accueil.fr/wp-content/uploads/2023/04/P1060733.jpg
+11:37:26	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.29.0 (from https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0)
+11:37:28	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.29.0 (from https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0)
+11:37:42	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.29.0 (from https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0)
+11:38:08	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot (from https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+11:38:08	Warning: 	File not parsed, looks like binary: https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+11:38:23	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff (from https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+11:38:48	Warning: 	Incorrect length (263243!=460069 expected) for https://relais-accueil.fr/wp-content/uploads/2023/05/RelaisAvenirApparts2-1024x724.png
+11:38:48	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3 (from https://relais-accueil.fr/)
+11:38:49	Warning: 	Incorrect length (137267!=501414 expected) for https://relais-accueil.fr/wp-content/uploads/2023/05/RelaisAvenirStudios1-1024x724.png
+11:38:49	Warning: 	File not parsed, looks like binary: https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+11:38:54	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff (from https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3)
+11:39:21	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2F (from https://relais-accueil.fr/)
+11:39:43	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=69
+11:39:43	Warning: 	File has moved from https://relais-accueil.fr/?p=69 to https://relais-accueil.fr/la-residence/
+11:39:49	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/malmaisons-card-01-1024x683.jpg (from https://relais-accueil.fr/la-residence/)
+11:39:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://relais-accueil.fr/wp-content/uploads/2023/04/accueil-cowork2.jpg (from https://relais-accueil.fr/la-residence/)
+11:39:58	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/accueil-jeunes-majeurs.jpg (from https://relais-accueil.fr/la-residence/)
+11:40:00	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/activite03-1024x789.jpg (from https://relais-accueil.fr/la-residence/)
+11:40:05	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/activite04-1024x768.jpg (from https://relais-accueil.fr/la-residence/)
+11:40:06	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0 (from https://relais-accueil.fr/la-residence/)
+11:40:11	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=71 (from https://relais-accueil.fr/fjt-paris-relais-18/)
+11:40:11	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Ffjt-paris-relais-18%2F&format=xml (from https://relais-accueil.fr/fjt-paris-relais-18/)
+11:40:12	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/poissonniers-card01-768x1024.jpg (from https://relais-accueil.fr/fjt-paris-relais-18/)
+11:40:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/wp-content/uploads/2023/04/poissonniers-hero-scaled.jpg (from https://relais-accueil.fr/fjt-paris-relais-18/)
+11:40:15	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/05/poissonniers10.jpg (from https://relais-accueil.fr/fjt-paris-relais-18/)
+11:40:29	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=73
+11:40:29	Warning: 	File has moved from https://relais-accueil.fr/?p=73 to https://relais-accueil.fr/la-colocation/
+11:40:33	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/colocation-article.jpeg (from https://relais-accueil.fr/la-colocation/)
+11:40:34	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/P1060721.jpg (from https://relais-accueil.fr/la-colocation/)
+11:40:35	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/P1060680.jpg (from https://relais-accueil.fr/la-colocation/)
+11:40:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/wp-content/uploads/2023/04/P1060733.jpg (from https://relais-accueil.fr/la-colocation/)
+11:40:38	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://relais-accueil.fr/wp-content/uploads/2023/04/P1060416.jpg (from https://relais-accueil.fr/la-colocation/)
+11:40:41	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/P1060469.jpg (from https://relais-accueil.fr/la-colocation/)
+11:41:03	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=75 (from https://relais-accueil.fr/coworking/)
+11:41:37	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=77 (from https://relais-accueil.fr/jeunes-majeurs/)
+11:41:39	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fjeunes-majeurs%2F&format=xml (from https://relais-accueil.fr/jeunes-majeurs/)
+11:41:43	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/05/RelaisAvenirApparts1.png (from https://relais-accueil.fr/jeunes-majeurs/)
+11:41:44	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/wp-content/uploads/2023/05/RelaisAvenirApparts2-1024x724.png (from https://relais-accueil.fr/jeunes-majeurs/)
+11:41:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/wp-content/uploads/2023/05/RelaisAvenirStudios1-1024x724.png (from https://relais-accueil.fr/jeunes-majeurs/)
+11:42:06	Error: 	Unable to save file C:/My Web Sites/relais-accueil.fr/relais-accueil.fr/l-association: Permission denied
+11:42:13	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/06/Design-sans-titre-1024x819.png (from https://relais-accueil.fr/)
+11:42:28	Error: 	Unable to save file C:/My Web Sites/relais-accueil.fr/relais-accueil.fr/coworking: Permission denied
+11:42:42	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css (from https://relais-accueil.fr/)
+11:42:43	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3 (from https://relais-accueil.fr/2023/04/18/)
+11:43:07	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1220
+11:43:07	Warning: 	File has moved from https://relais-accueil.fr/?p=1220 to https://relais-accueil.fr/mon-copilote-premiere-start-up-a-integrer-relais-cowork/
+11:43:09	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fmon-copilote-premiere-start-up-a-integrer-relais-cowork%2F&format=xml (from https://relais-accueil.fr/mon-copilote-premiere-start-up-a-integrer-relais-cowork/)
+11:43:11	Warning: 	Moved Permanently for https://www.relais-accueil.fr/images/Photo-Anne-Mon-Copilote.png
+11:43:11	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.relais-accueil.fr/images/Photo-Anne-Mon-Copilote.png and https://relais-accueil.fr/images/Photo-Anne-Mon-Copilote.png
+11:43:11	Warning: 	Warning moved treated for https://www.relais-accueil.fr/images/Photo-Anne-Mon-Copilote.png (real one is https://relais-accueil.fr/images/Photo-Anne-Mon-Copilote.png)
+11:43:33	Warning: 	Moved Permanently for https://www.relais-accueil.fr/images/Photo-Emily-Mon-Copilote.jpg
+11:43:33	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.relais-accueil.fr/images/Photo-Emily-Mon-Copilote.jpg and https://relais-accueil.fr/images/Photo-Emily-Mon-Copilote.jpg
+11:43:33	Warning: 	Warning moved treated for https://www.relais-accueil.fr/images/Photo-Emily-Mon-Copilote.jpg (real one is https://relais-accueil.fr/images/Photo-Emily-Mon-Copilote.jpg)
+11:43:36	Warning: 	Retry after error -4 (Connect Error) at link https://www.relais-accueil.fr/images/Photos-Yousra-Mon-Copilote_opt_opt.gif (from https://relais-accueil.fr/mon-copilote-premiere-start-up-a-integrer-relais-cowork/)
+11:44:29	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/portrait-de-fleur-autoentrepreneur-de-28-ans/feed/ (from https://relais-accueil.fr/portrait-de-fleur-autoentrepreneur-de-28-ans/)
+11:44:31	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1197 (from https://relais-accueil.fr/portrait-de-fleur-autoentrepreneur-de-28-ans/)
+11:45:01	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/1253-2/feed/ (from https://relais-accueil.fr/1253-2/)
+11:45:08	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1253 (from https://relais-accueil.fr/1253-2/)
+11:45:29	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/wp/v2/posts/1 (from https://relais-accueil.fr/bonjour-tout-le-monde/)
+11:45:31	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1
+11:45:31	Warning: 	File has moved from https://relais-accueil.fr/?p=1 to https://relais-accueil.fr/bonjour-tout-le-monde/
+11:45:35	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/elementor/css/post-3.css?ver=1710229433 (from https://relais-accueil.fr/politique-de-confidentialite/)
+11:45:57	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=3
+11:45:57	Warning: 	File has moved from https://relais-accueil.fr/?p=3 to https://relais-accueil.fr/politique-de-confidentialite/
+11:46:00	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fpolitique-de-confidentialite%2F (from https://relais-accueil.fr/politique-de-confidentialite/)
+11:46:22	Warning: 	Incorrect length (2972248!=5805758 expected) for https://relais-accueil.fr/?jet_download=1517
+11:46:22	Warning: 	Incorrect length (3256648!=7159981 expected) for https://relais-accueil.fr/?jet_download=2227
+11:46:22	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1 (from https://relais-accueil.fr/)
+11:46:27	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.29.0 (from https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0)
+11:47:03	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/bg.jpg (from https://relais-accueil.fr/wp-content/uploads/elementor/css/post-344.css?ver=1710229185)
+11:47:07	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3 (from https://relais-accueil.fr/)
+11:47:37	Warning: 	Incorrect length (149949!=233441 expected) for https://relais-accueil.fr/wp-content/uploads/2023/04/P1060733.jpg
+11:47:37	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/elementor/css/post-67.css?ver=1710229195 (from https://relais-accueil.fr/l-association/)
+11:47:38	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=67
+11:47:38	Warning: 	File has moved from https://relais-accueil.fr/?p=67 to https://relais-accueil.fr/l-association/
+11:47:55	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fl-association%2F&format=xml (from https://relais-accueil.fr/l-association/)
+11:48:16	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/pole/pole-socio-educatif/ (from https://relais-accueil.fr/l-association/)
+11:48:48	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?jet_download=Nzc0MDE1MDAxODc0MDQxNDAyMDU4MzEwMw= (from https://relais-accueil.fr/l-association/)
+11:48:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/?jet_download=2227 (from https://relais-accueil.fr/l-association/)
+11:48:49	Warning: 	Moved Permanently for https://relais-accueil.fr/l-association/2227
+11:48:49	Warning: 	File has moved from https://relais-accueil.fr/l-association/2227 to https://relais-accueil.fr/l-association/
+11:48:54	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/RA-RelaisAccueil-2021-pdf-1024x1024.jpg (from https://relais-accueil.fr/l-association/)
+11:48:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/?jet_download=1517 (from https://relais-accueil.fr/l-association/)
+11:48:57	Warning: 	Moved Permanently for https://relais-accueil.fr/l-association/1517
+11:48:57	Warning: 	File has moved from https://relais-accueil.fr/l-association/1517 to https://relais-accueil.fr/l-association/
+11:49:12	Warning: 	Moved Permanently for https://relais-accueil.fr/l-association/1516
+11:49:12	Warning: 	File has moved from https://relais-accueil.fr/l-association/1516 to https://relais-accueil.fr/l-association/
+11:49:14	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/siaoparis.png (from https://relais-accueil.fr/l-association/)
+11:49:14	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/mlparis.png (from https://relais-accueil.fr/l-association/)
+11:49:15	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/cidj.png (from https://relais-accueil.fr/l-association/)
+11:49:16	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/fonjep.png (from https://relais-accueil.fr/l-association/)
+11:49:19	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/arfj.png (from https://relais-accueil.fr/l-association/)
+11:49:19	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/culturesducoeur.png (from https://relais-accueil.fr/l-association/)
+11:49:20	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/ligueenseignement75.png (from https://relais-accueil.fr/l-association/)
+11:49:21	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/mgen.png (from https://relais-accueil.fr/l-association/)
+11:49:22	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/malmaisons-card-01-1024x683.jpg (from https://relais-accueil.fr/la-residence/)
+11:49:23	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/activite03-1024x789.jpg (from https://relais-accueil.fr/la-residence/)
+11:49:32	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=71 (from https://relais-accueil.fr/fjt-paris-relais-18/)
+11:49:37	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/poissonniers-card01-768x1024.jpg (from https://relais-accueil.fr/fjt-paris-relais-18/)
+11:49:42	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/colocation-diapo1.jpg (from https://relais-accueil.fr/wp-content/uploads/elementor/css/post-73.css?ver=1710229199)
+11:49:44	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/wp-content/uploads/2023/04/P1060733.jpg (from https://relais-accueil.fr/la-colocation/)
+11:49:46	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=75 (from https://relais-accueil.fr/coworking/)
+11:49:46	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=77 (from https://relais-accueil.fr/jeunes-majeurs/)
+11:49:48	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/05/RelaisAvenirStudios1-1024x724.png (from https://relais-accueil.fr/jeunes-majeurs/)
+11:49:53	Error: 	"Not Found" (404) at link https://relais-accueil.fr/2227 (from https://relais-accueil.fr/l-association)
+11:49:56	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/1517 (from https://relais-accueil.fr/l-association)
+11:49:58	Error: 	"Not Found" (404) at link https://relais-accueil.fr/1516 (from https://relais-accueil.fr/l-association)
+11:49:58	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/wp-content/uploads/2023/06/Design-sans-titre-1024x819.png (from https://relais-accueil.fr/)
+11:49:59	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/la-fondation-monoprix-decerne-le-prix-du-jury-dun-montant-de-10-000e-a-relais-accueil/feed/ (from https://relais-accueil.fr/la-fondation-monoprix-decerne-le-prix-du-jury-dun-montant-de-10-000e-a-relais-accueil/)
+11:50:01	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1251
+11:50:01	Warning: 	File has moved from https://relais-accueil.fr/?p=1251 to https://relais-accueil.fr/la-fondation-monoprix-decerne-le-prix-du-jury-dun-montant-de-10-000e-a-relais-accueil/
+11:50:10	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fla-fondation-monoprix-decerne-le-prix-du-jury-dun-montant-de-10-000e-a-relais-accueil%2F (from https://relais-accueil.fr/la-fondation-monoprix-decerne-le-prix-du-jury-dun-montant-de-10-000e-a-relais-accueil/)
+11:50:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relais-accueil.fr/?jet_download=2227
+11:50:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relais-accueil.fr/?jet_download=1517
+11:50:42	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3 (from https://relais-accueil.fr/2023/04/18/)
+11:50:47	Warning: 	Moved Permanently for https://www.relais-accueil.fr/images/Photos-Yousra-Mon-Copilote_opt_opt.gif
+11:50:47	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.relais-accueil.fr/images/Photos-Yousra-Mon-Copilote_opt_opt.gif and https://relais-accueil.fr/images/Photos-Yousra-Mon-Copilote_opt_opt.gif
+11:50:47	Warning: 	Warning moved treated for https://www.relais-accueil.fr/images/Photos-Yousra-Mon-Copilote_opt_opt.gif (real one is https://relais-accueil.fr/images/Photos-Yousra-Mon-Copilote_opt_opt.gif)
+11:51:08	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/category/non-classe/feed/ (from https://relais-accueil.fr/category/non-classe/)
+11:51:12	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1197
+11:51:12	Warning: 	File has moved from https://relais-accueil.fr/?p=1197 to https://relais-accueil.fr/portrait-de-fleur-autoentrepreneur-de-28-ans/
+11:51:18	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/2nd-article-du-site-internet-de-relais-accueil/feed/ (from https://relais-accueil.fr/2nd-article-du-site-internet-de-relais-accueil/)
+11:51:24	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1190
+11:51:24	Warning: 	File has moved from https://relais-accueil.fr/?p=1190 to https://relais-accueil.fr/2nd-article-du-site-internet-de-relais-accueil/
+11:51:29	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/1253-2/feed/ (from https://relais-accueil.fr/1253-2/)
+11:51:50	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1253
+11:51:50	Warning: 	File has moved from https://relais-accueil.fr/?p=1253 to https://relais-accueil.fr/1253-2/
+11:52:32	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/bg.jpg (from https://relais-accueil.fr/wp-content/uploads/elementor/css/post-344.css?ver=1710229185)
+11:52:39	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/elementor/css/post-67.css?ver=1710229195 (from https://relais-accueil.fr/l-association/)
+11:52:40	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/salaries/joanna-przygodzka/ (from https://relais-accueil.fr/pole/pole-direction/)
+11:53:57	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/salaries/william-agius/ (from https://relais-accueil.fr/pole/pole-habitat/)
+11:54:18	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/salaries/celine-plion/ (from https://relais-accueil.fr/pole/pole-habitat/)
+11:56:23	Warning: 	Incorrect length (3633994!=7159981 expected) for https://relais-accueil.fr/?jet_download=2227
+11:56:26	Warning: 	Incorrect length (3499752!=6027932 expected) for https://relais-accueil.fr/?jet_download=Nzc0MDE1MDAxODc0MDQxNDAyMDU4MzEwMw=
+11:56:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/?jet_download=Nzc0MDE1MDAxODc0MDQxNDAyMDU4MzEwMw= (from https://relais-accueil.fr/l-association/)
+11:56:31	Warning: 	Retry after error -4 (Interrupted transfer) at link https://relais-accueil.fr/?jet_download=2227 (from https://relais-accueil.fr/l-association/)
+11:56:31	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/RA-RelaisAccueil-2021-pdf-1024x1024.jpg (from https://relais-accueil.fr/l-association/)
+11:56:34	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-content/uploads/2023/04/mlparis.png (from https://relais-accueil.fr/l-association/)
+11:56:35	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/wp-content/uploads/2023/04/malmaisons-card-01-1024x683.jpg (from https://relais-accueil.fr/la-residence/)
+11:56:36	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/wp-content/uploads/2023/04/activite03-1024x789.jpg (from https://relais-accueil.fr/la-residence/)
+11:56:38	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=71
+11:56:38	Warning: 	File has moved from https://relais-accueil.fr/?p=71 to https://relais-accueil.fr/fjt-paris-relais-18/
+11:56:44	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=75
+11:56:44	Warning: 	File has moved from https://relais-accueil.fr/?p=75 to https://relais-accueil.fr/coworking/
+11:56:52	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=77
+11:56:52	Warning: 	File has moved from https://relais-accueil.fr/?p=77 to https://relais-accueil.fr/jeunes-majeurs/
+11:56:56	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/wp-content/uploads/2023/05/RelaisAvenirStudios1-1024x724.png (from https://relais-accueil.fr/jeunes-majeurs/)
+11:56:57	Error: 	"Not Found" (404) at link https://relais-accueil.fr/1517 (from https://relais-accueil.fr/l-association)
+11:56:58	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fla-fondation-monoprix-decerne-le-prix-du-jury-dun-montant-de-10-000e-a-relais-accueil%2F (from https://relais-accueil.fr/la-fondation-monoprix-decerne-le-prix-du-jury-dun-montant-de-10-000e-a-relais-accueil/)
+11:57:03	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/category/non-classe/feed/ (from https://relais-accueil.fr/category/non-classe/)
+11:57:07	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/2nd-article-du-site-internet-de-relais-accueil/feed/ (from https://relais-accueil.fr/2nd-article-du-site-internet-de-relais-accueil/)
+11:57:08	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/wp-content/uploads/2023/04/bg.jpg (from https://relais-accueil.fr/wp-content/uploads/elementor/css/post-344.css?ver=1710229185)
+11:57:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relais-accueil.fr/?jet_download=Nzc0MDE1MDAxODc0MDQxNDAyMDU4MzEwMw=
+11:57:47	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1138 (from https://relais-accueil.fr/salaries/thomas-fraser/)
+11:58:34	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/salaries/eva-quenel/ (from https://relais-accueil.fr/pole/pole-socio-educatif/)
+11:58:56	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/salaries/monique-ferron/ (from https://relais-accueil.fr/pole/pole-socio-educatif/)
+11:59:10	Warning: 	Incorrect length (1482170!=6027932 expected) for https://relais-accueil.fr/?jet_download=Nzc0MDE1MDAxODc0MDQxNDAyMDU4MzEwMw=
+11:59:22	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/salaries/lilla-eghiazarian/ (from https://relais-accueil.fr/pole/pole-socio-educatif/)
+11:59:22	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/salaries/adrien-leverrier/ (from https://relais-accueil.fr/pole/pole-socio-educatif/)
+11:59:24	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=2277
+11:59:24	Warning: 	File has moved from https://relais-accueil.fr/?p=2277 to https://relais-accueil.fr/salaries/arnaud-serre/
+11:59:45	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Farnaud-serre%2F (from https://relais-accueil.fr/salaries/arnaud-serre/)
+11:59:48	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1755 (from https://relais-accueil.fr/salaries/hassana-romieu/)
+11:59:49	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Fhassana-romieu%2F (from https://relais-accueil.fr/salaries/hassana-romieu/)
+11:59:50	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1754
+11:59:50	Warning: 	File has moved from https://relais-accueil.fr/?p=1754 to https://relais-accueil.fr/salaries/alain-paruta/
+11:59:54	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1753 (from https://relais-accueil.fr/salaries/nathalie-carrette/)
+11:59:55	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Fnathalie-carrette%2F&format=xml (from https://relais-accueil.fr/salaries/nathalie-carrette/)
+12:00:06	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://relais-accueil.fr/?jet_download=Nzc0MDE1MDAxODc0MDQxNDAyMDU4MzEwMw= (from https://relais-accueil.fr/l-association/)
+12:00:06	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/?jet_download=2227 (from https://relais-accueil.fr/l-association/)
+12:00:06	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/category/non-classe/feed/ (from https://relais-accueil.fr/category/non-classe/)
+12:00:06	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/wp/v2/salaries/1749 (from https://relais-accueil.fr/salaries/joanna-przygodzka/)
+12:00:09	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1749
+12:00:09	Warning: 	File has moved from https://relais-accueil.fr/?p=1749 to https://relais-accueil.fr/salaries/joanna-przygodzka/
+12:00:17	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Fjoanna-przygodzka%2F&format=xml (from https://relais-accueil.fr/salaries/joanna-przygodzka/)
+12:00:17	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1138 (from https://relais-accueil.fr/salaries/thomas-fraser/)
+12:00:17	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1782
+12:00:17	Warning: 	File has moved from https://relais-accueil.fr/?p=1782 to https://relais-accueil.fr/salaries/rose-sidibe/
+12:00:17	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Frose-sidibe%2F (from https://relais-accueil.fr/salaries/rose-sidibe/)
+12:00:17	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Frose-sidibe%2F&format=xml (from https://relais-accueil.fr/salaries/rose-sidibe/)
+12:00:18	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/wp/v2/salaries/1780 (from https://relais-accueil.fr/salaries/rachid-el-kalai/)
+12:00:18	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1780
+12:00:18	Warning: 	File has moved from https://relais-accueil.fr/?p=1780 to https://relais-accueil.fr/salaries/rachid-el-kalai/
+12:00:19	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1778
+12:00:19	Warning: 	File has moved from https://relais-accueil.fr/?p=1778 to https://relais-accueil.fr/salaries/chantal-cherubin/
+12:00:20	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1777 (from https://relais-accueil.fr/salaries/guy-oliver-kouessu/)
+12:00:20	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/salaries/monique-ferron/ (from https://relais-accueil.fr/pole/pole-socio-educatif/)
+12:00:21	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1775 (from https://relais-accueil.fr/salaries/aurelie-tuillet/)
+12:00:43	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1773
+12:00:43	Warning: 	File has moved from https://relais-accueil.fr/?p=1773 to https://relais-accueil.fr/salaries/anais-halter/
+12:01:02	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Fanais-halter%2F (from https://relais-accueil.fr/salaries/anais-halter/)
+12:01:04	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1757
+12:01:04	Warning: 	File has moved from https://relais-accueil.fr/?p=1757 to https://relais-accueil.fr/salaries/william-agius/
+12:01:04	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Fwilliam-agius%2F (from https://relais-accueil.fr/salaries/william-agius/)
+12:01:04	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1756 (from https://relais-accueil.fr/salaries/celine-plion/)
+12:01:04	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Fceline-plion%2F&format=xml (from https://relais-accueil.fr/salaries/celine-plion/)
+12:01:05	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1755
+12:01:05	Warning: 	File has moved from https://relais-accueil.fr/?p=1755 to https://relais-accueil.fr/salaries/hassana-romieu/
+12:01:05	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1753
+12:01:05	Warning: 	File has moved from https://relais-accueil.fr/?p=1753 to https://relais-accueil.fr/salaries/nathalie-carrette/
+12:01:05	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Fnathalie-carrette%2F&format=xml (from https://relais-accueil.fr/salaries/nathalie-carrette/)
+12:01:05	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1138
+12:01:05	Warning: 	File has moved from https://relais-accueil.fr/?p=1138 to https://relais-accueil.fr/salaries/thomas-fraser/
+12:01:05	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1779
+12:01:05	Warning: 	File has moved from https://relais-accueil.fr/?p=1779 to https://relais-accueil.fr/salaries/eva-quenel/
+12:01:05	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Feva-quenel%2F (from https://relais-accueil.fr/salaries/eva-quenel/)
+12:01:05	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/?p=1777 (from https://relais-accueil.fr/salaries/guy-oliver-kouessu/)
+12:01:06	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/salaries/monique-ferron/ (from https://relais-accueil.fr/pole/pole-socio-educatif/)
+12:01:06	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1775
+12:01:06	Warning: 	File has moved from https://relais-accueil.fr/?p=1775 to https://relais-accueil.fr/salaries/aurelie-tuillet/
+12:01:06	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/wp/v2/salaries/1774 (from https://relais-accueil.fr/salaries/lilla-eghiazarian/)
+12:01:07	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1774
+12:01:07	Warning: 	File has moved from https://relais-accueil.fr/?p=1774 to https://relais-accueil.fr/salaries/lilla-eghiazarian/
+12:01:26	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1676
+12:01:26	Warning: 	File has moved from https://relais-accueil.fr/?p=1676 to https://relais-accueil.fr/salaries/adrien-leverrier/
+12:01:26	Warning: 	Moved Permanently for https://relais-accueil.fr/?p=1756
+12:01:26	Warning: 	File has moved from https://relais-accueil.fr/?p=1756 to https://relais-accueil.fr/salaries/celine-plion/
+12:01:26	Warning: 	Retry after error -4 (Connect Error) at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Feva-quenel%2F (from https://relais-accueil.fr/salaries/eva-quenel/)
+12:01:27	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/?p=1777 (from https://relais-accueil.fr/salaries/guy-oliver-kouessu/)
+12:01:48	Error: 	"Connect Error" (-4) after 2 retries at link https://relais-accueil.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelais-accueil.fr%2Fsalaries%2Feva-quenel%2F (from https://relais-accueil.fr/salaries/eva-quenel/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 minutes 36 seconds : 564 links scanned, 370 files written (34105078 bytes overall) [49172577 bytes received at 25139 bytes/sec], 5805758 bytes transferred using HTTP compression in 1 files, ratio 95%
+(20 errors, 233 warnings, 0 messages)
